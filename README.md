@@ -1,6 +1,6 @@
 # MessageTemplaterPackage
 # How to Run the Program
-1. Unzip the package to a folder on your computer
+1. Unzip the MessageTemplaterPackage to a folder on your computer
 2. Open a terminal to the folder that contains the unzipped artifacts
 3. Start the REST Service by typing “java -jar MessageTemplater-1.0.jar” in the terminal.  Spring Boot will start the REST Service using port 8080.
 4. Start the front end by opening “index.html” located in the “public.html” folder.  Chrome would provide the best experience.
