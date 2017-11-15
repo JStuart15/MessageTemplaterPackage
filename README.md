@@ -15,8 +15,7 @@
 # Languages
 1. I chose Java for the back end because I used it while at the Software Guild and with the help of Spring I knew I could produce a RESTful webservice with minimal effort.
 2. I chose Javascript and jQuery for the front end because I needed the practice with those tools.
-Validation Process
-3. I used Junit tests for each Dao implementation to ensure I was getting the right information from the JSON data files.
+3. Validation Process.  I used Junit tests for each Dao implementation to ensure I was getting the right information from the JSON data files.
 4. I manually tested the front end to validate the behavior I desired.
 
 # Future Enhancements
